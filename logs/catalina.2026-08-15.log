@@ -1,0 +1,109 @@
+15-Aug-2026 01:10:24.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.108
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 31 2025 18:19:48 UTC
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.108.0
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-23
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+15-Aug-2026 01:10:24.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Aug-2026 01:10:24.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system
+15-Aug-2026 01:10:24.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.108
+15-Aug-2026 01:10:24.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Aug-2026 01:10:24.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Aug-2026 01:10:24.412 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Aug-2026 01:10:24.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Aug-2026 01:10:24.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Aug-2026 01:10:24.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.108
+15-Aug-2026 01:10:24.413 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system
+15-Aug-2026 01:10:24.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\temp
+15-Aug-2026 01:10:24.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\logging.properties
+15-Aug-2026 01:10:24.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Aug-2026 01:10:24.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.2\lib\idea_rt.jar=56171:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.2\bin
+15-Aug-2026 01:10:24.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Aug-2026 01:10:24.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+15-Aug-2026 01:10:24.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+15-Aug-2026 01:10:24.427 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\MongoDB\Server\8.2\bin;C:\mongosh-2.8.2-win32-x64\mongosh-2.8.2-win32-x64\bin;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;"C:\Program Files (x86)\GnuWin32\bin; C:\Program Files (x86)\Embarcadero\Dev-Cpp\TDM-GCC-64\bin";C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-23\bin;D:\Servlet1\apache-tomcat-11.0.10\lib\*;D:\Servlet1\apache-tomcat-11.0.10\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\MongoDB\Server\8.2\bin;C:\mongosh-2.8.2-win32-x64\mongosh-2.8.2-win32-x64\bin;C:\Users\Rohit\AppData\Local\Programs\Python\Launcher\;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files (x86)\Embarcadero\Dev-Cpp\TDM-GCC-64\bin;C:\Users\Rohit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Rohit\AppData\Local\Programs\Antigravity\bin;;.]
+15-Aug-2026 01:10:24.853 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Aug-2026 01:10:24.874 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [819] milliseconds
+15-Aug-2026 01:10:24.925 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Aug-2026 01:10:24.925 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.108]
+15-Aug-2026 01:10:24.935 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass7.xml]
+15-Aug-2026 01:10:25.813 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Aug-2026 01:10:25.910 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass7.xml] has finished in [975] ms
+15-Aug-2026 01:10:25.911 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass8.xml]
+15-Aug-2026 01:10:25.943 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass8.xml] has finished in [32] ms
+15-Aug-2026 01:10:25.944 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass9.xml]
+15-Aug-2026 01:10:26.051 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [5.0]. Default version will be used.
+15-Aug-2026 01:10:26.782 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Aug-2026 01:10:26.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass9.xml] has finished in [851] ms
+15-Aug-2026 01:10:26.797 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass_5.xml]
+15-Aug-2026 01:10:27.093 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Aug-2026 01:10:27.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\ass_5.xml] has finished in [300] ms
+15-Aug-2026 01:10:27.101 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\banking.xml]
+15-Aug-2026 01:10:27.144 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\banking.xml] has finished in [42] ms
+15-Aug-2026 01:10:27.146 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\SIH.xml]
+15-Aug-2026 01:10:27.155 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\SIH.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1579)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:76)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to initialize component [org.apache.catalina.webresources.DirResourceSet@34b462e0]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:125)
+		at org.apache.catalina.webresources.StandardRoot.initInternal(StandardRoot.java:698)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:155)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4172)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4294)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The directory specified by base and internal path [C:/SIH_work/target/classes]\[] does not exist.
+		at org.apache.catalina.webresources.DirResourceSet.checkType(DirResourceSet.java:319)
+		at org.apache.catalina.webresources.AbstractFileResourceSet.initInternal(AbstractFileResourceSet.java:239)
+		at org.apache.catalina.webresources.DirResourceSet.initInternal(DirResourceSet.java:326)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		... 42 more
+15-Aug-2026 01:10:27.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\SIH.xml] has finished in [18] ms
+15-Aug-2026 01:10:27.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\TeluskoServlet.xml]
+15-Aug-2026 01:10:27.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Rohit\.gemini\antigravity\scratch\online-banking-system\conf\Catalina\localhost\TeluskoServlet.xml] has finished in [57] ms
+15-Aug-2026 01:10:27.230 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Aug-2026 01:10:27.254 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2378] milliseconds
+15-Aug-2026 02:44:43.789 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Aug-2026 02:44:43.818 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Aug-2026 02:44:43.943 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Aug-2026 02:44:43.954 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
